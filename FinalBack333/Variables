@@ -1,0 +1,4 @@
+DB_DEPLOY = postgresql://postgres:CprdfpLCJd4fCzrw3fNo@containers-us-west-114.railway.app:8055/railway
+MAIL_ID = henrifyb@gmail.com
+MAIL_PASSWORD = pmzorqmkozcbuuix
+JWT_SECRET_KEY=jsonwebtokenmyecommerce333
